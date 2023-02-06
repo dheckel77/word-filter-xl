@@ -1,0 +1,9 @@
+.wf__flex-container {
+  display: flex;
+}
+
+.wf__flex-container textarea {
+  flex: 1;
+  height: 200px;
+  margin-bottom: 20px;
+}
